@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45f90605dfac4b54681807de6d452858
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moveSound: {fileID: 8300000, guid: 15cc4414f4e9cb34d982ad312a7e0f0a, type: 3}
+  - rotateSound: {fileID: 8300000, guid: 274682b9f9a102b44867aaa52d311376, type: 3}
+  - landSound: {fileID: 8300000, guid: c447d0da5194d374180917ac16cd64d1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
